@@ -6,7 +6,7 @@ def fetch_afisha_page():
 
 
 def parse_afisha_list(raw_html):
-    pass
+    # тут нужно использовать прекрасный суп, чтобы распарсить фильмы из html афиши
 
 
 def fetch_movie_info(movie_title):
