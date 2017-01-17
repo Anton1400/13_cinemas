@@ -1,4 +1,5 @@
-
+import requests
+import beautifulsoup4
 
 def fetch_afisha_page():
     pass
