@@ -14,7 +14,11 @@ def fetch_movie_info(movie_title):
 
 
 def output_movies_to_console(movies):
-    pass
+    print(|название|оценка|etc|) # Напечатать в виде таблиы
+    print(|--------|------|---|)
+    for cinema in movies:
+        code
+        print('*'*70)
 
 
 if __name__ == '__main__':
