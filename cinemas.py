@@ -46,8 +46,7 @@ def output_movies_to_console(movies):
     print('|название|оценка|etc|') # Напечатать в виде таблиы
     print('|--------|------|---|')
     for cinema in movies:
-        code
-        print('*'*70)
+        print()
 
 
 if __name__ == '__main__':
